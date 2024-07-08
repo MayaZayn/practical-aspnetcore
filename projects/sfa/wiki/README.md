@@ -23,6 +23,30 @@ Used libraries:
 * Markdown Editor - [EasyMDE](https://github.com/Ionaru/easy-markdown-editor).
 * Sanitizing Input - [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer).
 
+Updates:
+- Removed warnings
+- Removed unnecassary (! and $ operators)
+- Made lines shorter
+- Added summary at the beginning of the file
+- Added comments for better understanding
+- Removed unnecassary comments
+- Added spaces
+- Adjusted indentation
+- Made templates for logging messages
+- Renamed vague variables
+- Used raw string (re check)
+- Separate various . operators on different lines
+- Change constructor in Wiki class to primary constructor
+- Improve some error messages
+- Fix typos
+- Add app.UseAntiforgery()
+- Add search functionality
+- Add change log feature
+- Made it responsive
+- Add view image uploaded via markdown feature
+- Fix database shared issue      
+- Change navbar color
+  
 **Screenshot**
 ![screenshot of the running wiki](fanon.png)
 
